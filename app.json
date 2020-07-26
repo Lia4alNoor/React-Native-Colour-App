@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SalesTracker",
-    "slug": "Donw",
+    "name": "ColorCatalog2",
+    "slug": "ColorCatalog2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
